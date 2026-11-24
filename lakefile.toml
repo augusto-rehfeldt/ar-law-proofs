@@ -1,0 +1,15 @@
+name = "ArLawProofs"
+version = "0.1.0"
+defaultTargets = ["ArTax", "ArLegal", "artax"]
+
+# Argentine national taxes: the statute, ARCA's published tables and INDEC's index (README.md)
+[[lean_lib]]
+name = "ArTax"
+
+# Provisions over time: references to repealed provisions in the tax statutes (README.md)
+[[lean_lib]]
+name = "ArLegal"
+
+[[lean_exe]]
+name = "artax"
+root = "ArTax.Main"

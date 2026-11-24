@@ -1,0 +1,771 @@
+{
+ "ambiguous": [
+  {
+   "act": "ley-19550",
+   "citing": "ley-19550/art-386.md",
+   "citing_hist": [
+    [
+     19840330,
+     true
+    ]
+   ],
+   "quote": "o) Hasta tanto se dicten leyes previstas en el artículo 371, reglamentarias de los registros mencionados en esta Ley, n",
+   "repeal": {
+    "from": 20150801,
+    "kind": "law",
+    "law": "Ley 26.994"
+   },
+   "span": "artículo 371",
+   "target": "ley-19550/art-371.md",
+   "target_hist": [
+    [
+     20150801,
+     false
+    ],
+    [
+     19840330,
+     true
+    ]
+   ],
+   "why": "rejected by hand: referent mismatch: art. 386 o) speaks of 'leyes previstas en el artículo 371, reglamentarias de los registros', but the deleted art. 371 was 'Dirección y administración' of a joint venture; the citation follows an older numbering or another act, so the dead target is not the one cited"
+  },
+  {
+   "act": "ley-24013",
+   "citing": "ley-24013/art-119.md",
+   "citing_hist": [
+    [
+     19911226,
+     true
+    ]
+   ],
+   "quote": "ciones a los efectos previsionales, con los alcances de los incisos a) y b) del artículo 12 de esta ley.",
+   "repeal": {
+    "from": 20231230,
+    "kind": "decree",
+    "law": "DNU 70/2023"
+   },
+   "span": "incisos a) y b) del artículo 12",
+   "target": "ley-24013/art-012.md",
+   "target_hist": [
+    [
+     20231230,
+     false
+    ],
+    [
+     19911226,
+     true
+    ]
+   ],
+   "why": "rejected by hand: repeal credited to DNU 70/2023, whose labour title was suspended by the courts; the record names no later statutory repeal, so the date the article ceased cannot be established from it"
+  },
+  {
+   "act": "ley-26844",
+   "citing": "ley-26844/art-073.md",
+   "citing_hist": [
+    [
+     20130421,
+     true
+    ]
+   ],
+   "quote": "nizatorio. Adecuación. A los efectos de lo dispuesto por el artículo 50 y para las relaciones iniciadas con anterioridad a la entra",
+   "repeal": {
+    "from": 20231230,
+    "kind": "decree",
+    "law": "DNU 70/2023"
+   },
+   "span": "artículo 50",
+   "target": "ley-26844/art-050.md",
+   "target_hist": [
+    [
+     20231230,
+     false
+    ],
+    [
+     20130421,
+     true
+    ]
+   ],
+   "why": "rejected by hand: repeal credited to DNU 70/2023, whose labour title was suspended by the courts; the record names no later statutory repeal, so the date the article ceased cannot be established from it"
+  }
+ ],
+ "articles": 13229,
+ "corpus_head": "fc9f2ec88027dc2f30fca798865950b8de09baa1",
+ "flags": [
+  {
+   "act": "codigo-penal",
+   "certified": true,
+   "citing": "codigo-penal/art-023.md",
+   "citing_hist": [
+    [
+     20130105,
+     true
+    ],
+    [
+     20110630,
+     true
+    ],
+    [
+     20031210,
+     true
+    ],
+    [
+     20030629,
+     true
+    ],
+    [
+     19991109,
+     true
+    ],
+    [
+     19850116,
+     true
+    ]
+   ],
+   "citing_label": "codigo-penal/art-023.md",
+   "id": "C0001",
+   "quote": "En caso de los delitos previstos en el artículo 213 ter y quáter y en el Título XIII del libro Segundo de éste Códi",
+   "reenacted": true,
+   "repeal": {
+    "from": 20120106,
+    "kind": "law",
+    "law": "Ley 26.734"
+   },
+   "span": "artículo 213 ter",
+   "target": "codigo-penal/art-213-ter.md",
+   "target_hist": [
+    [
+     20120106,
+     false
+    ],
+    [
+     20070714,
+     true
+    ]
+   ],
+   "target_label": "codigo-penal/art-213-ter.md"
+  },
+  {
+   "act": "ley-18345",
+   "certified": true,
+   "citing": "ley-18345/art-052.md",
+   "citing_hist": [
+    [
+     19980130,
+     true
+    ]
+   ],
+   "citing_label": "ley-18345/art-052.md",
+   "id": "C0002",
+   "quote": "mpareciere, el juez le designará el defensor previsto en el artículo 15.",
+   "reenacted": false,
+   "repeal": {
+    "from": 19980401,
+    "kind": "law",
+    "law": "Ley 24.946"
+   },
+   "span": "artículo 15",
+   "target": "ley-18345/art-015.md",
+   "target_hist": [
+    [
+     19980401,
+     false
+    ],
+    [
+     19980130,
+     true
+    ]
+   ],
+   "target_label": "ley-18345/art-015.md"
+  },
+  {
+   "act": "ley-19945",
+   "certified": true,
+   "citing": "ley-19945/art-100.md",
+   "citing_hist": [
+    [
+     19830906,
+     true
+    ]
+   ],
+   "citing_label": "ley-19945/art-100.md",
+   "id": "C0003",
+   "quote": "En el caso previsto en los artículos 58 y 74 se dejará constancia del o de los votos emitidos en esas co",
+   "reenacted": false,
+   "repeal": {
+    "from": 20120620,
+    "kind": "law",
+    "law": "Ley 26.744"
+   },
+   "span": "artículos 58 y 74",
+   "target": "ley-19945/art-074.md",
+   "target_hist": [
+    [
+     20120620,
+     false
+    ],
+    [
+     20091223,
+     true
+    ],
+    [
+     19830906,
+     true
+    ]
+   ],
+   "target_label": "ley-19945/art-074.md"
+  },
+  {
+   "act": "ley-20744",
+   "certified": true,
+   "citing": "ley-20744/art-191.md",
+   "citing_hist": [
+    [
+     20080704,
+     true
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "citing_label": "ley-20744/art-191.md",
+   "id": "C0004",
+   "quote": "en horas de la mañana y de la tarde rige lo dispuesto en el artículo 174 de esta ley; en todos los casos rige lo dispuesto en los ar",
+   "reenacted": false,
+   "repeal": {
+    "from": 20260306,
+    "kind": "law",
+    "law": "Ley 27.802"
+   },
+   "span": "artículo 174",
+   "target": "ley-20744/art-174.md",
+   "target_hist": [
+    [
+     20260306,
+     false
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "target_label": "ley-20744/art-174.md"
+  },
+  {
+   "act": "ley-20744",
+   "certified": true,
+   "citing": "ley-20744/art-191.md",
+   "citing_hist": [
+    [
+     20080704,
+     true
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "citing_label": "ley-20744/art-191.md",
+   "id": "C0005",
+   "quote": "74 de esta ley; en todos los casos rige lo dispuesto en los artículos 175 y 176 de esta ley.",
+   "reenacted": false,
+   "repeal": {
+    "from": 20260306,
+    "kind": "law",
+    "law": "Ley 27.802"
+   },
+   "span": "artículos 175 y 176",
+   "target": "ley-20744/art-175.md",
+   "target_hist": [
+    [
+     20260306,
+     false
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "target_label": "ley-20744/art-175.md"
+  },
+  {
+   "act": "ley-20744",
+   "certified": true,
+   "citing": "ley-20744/art-191.md",
+   "citing_hist": [
+    [
+     20080704,
+     true
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "citing_label": "ley-20744/art-191.md",
+   "id": "C0006",
+   "quote": "74 de esta ley; en todos los casos rige lo dispuesto en los artículos 175 y 176 de esta ley.",
+   "reenacted": false,
+   "repeal": {
+    "from": 20260306,
+    "kind": "law",
+    "law": "Ley 27.802"
+   },
+   "span": "artículos 175 y 176",
+   "target": "ley-20744/art-176.md",
+   "target_hist": [
+    [
+     20260306,
+     false
+    ],
+    [
+     19760521,
+     true
+    ]
+   ],
+   "target_label": "ley-20744/art-176.md"
+  },
+  {
+   "act": "ley-23298",
+   "certified": true,
+   "citing": "ley-23298/art-074.md",
+   "citing_hist": [
+    [
+     19851103,
+     true
+    ]
+   ],
+   "citing_label": "ley-23298/art-074.md",
+   "id": "C0007",
+   "quote": "rior los beneficios que en concepto de franquicias prevé el articulo 46 con cargo al  .",
+   "reenacted": false,
+   "repeal": {
+    "from": 20021010,
+    "kind": "law",
+    "law": "Ley 25.600"
+   },
+   "span": "articulo 46",
+   "target": "ley-23298/art-046.md",
+   "target_hist": [
+    [
+     20021010,
+     false
+    ],
+    [
+     19851103,
+     true
+    ]
+   ],
+   "target_label": "ley-23298/art-046.md"
+  },
+  {
+   "act": "ley-23298",
+   "certified": true,
+   "citing": "ley-23298/art-077.md",
+   "citing_hist": [
+    [
+     19851103,
+     true
+    ]
+   ],
+   "citing_label": "ley-23298/art-077.md",
+   "id": "C0008",
+   "quote": "El subsidio previsto en el artículo 46, se acuerda también a los partidos reconocidos, con referen",
+   "reenacted": false,
+   "repeal": {
+    "from": 20021010,
+    "kind": "law",
+    "law": "Ley 25.600"
+   },
+   "span": "artículo 46",
+   "target": "ley-23298/art-046.md",
+   "target_hist": [
+    [
+     20021010,
+     false
+    ],
+    [
+     19851103,
+     true
+    ]
+   ],
+   "target_label": "ley-23298/art-046.md"
+  },
+  {
+   "act": "ley-23737",
+   "certified": true,
+   "citing": "ley-23737/art-029-bis.md",
+   "citing_hist": [
+    [
+     19950118,
+     true
+    ]
+   ],
+   "citing_label": "ley-23737/art-029-bis.md",
+   "id": "C0009",
+   "quote": "rsonas, para cometer alguno de los delitos previstos en los artículos 5, 6, 7, 8, 10 y 25 de la presente ley, y en el artículo 866 del Código Aduaner",
+   "reenacted": false,
+   "repeal": {
+    "from": 20000519,
+    "kind": "law",
+    "law": "Ley 25.246"
+   },
+   "span": "artículos 5, 6, 7, 8, 10 y 25",
+   "target": "ley-23737/art-025.md",
+   "target_hist": [
+    [
+     20000519,
+     false
+    ],
+    [
+     19891020,
+     true
+    ]
+   ],
+   "target_label": "ley-23737/art-025.md"
+  },
+  {
+   "act": "ley-24013",
+   "certified": true,
+   "citing": "ley-24013/art-085.md",
+   "citing_hist": [
+    [
+     19911226,
+     true
+    ]
+   ],
+   "citing_label": "ley-24013/art-085.md",
+   "id": "C0010",
+   "quote": "egidos por tiempo indeterminado, gozando de la exención del artículo 46 de esta ley por el período de un año.",
+   "reenacted": false,
+   "repeal": {
+    "from": 19981003,
+    "kind": "law",
+    "law": "Ley 25.013"
+   },
+   "span": "artículo 46",
+   "target": "ley-24013/art-046.md",
+   "target_hist": [
+    [
+     19981003,
+     false
+    ],
+    [
+     19911226,
+     true
+    ]
+   ],
+   "target_label": "ley-24013/art-046.md"
+  },
+  {
+   "act": "ley-24013",
+   "certified": true,
+   "citing": "ley-24013/art-097.md",
+   "citing_hist": [
+    [
+     19911226,
+     true
+    ]
+   ],
+   "citing_label": "ley-24013/art-097.md",
+   "id": "C0011",
+   "quote": ", la ampliación en un 10 por ciento del límite fijado en el artículo 34 de la presente ley para contratar trabajadores afectados po",
+   "reenacted": false,
+   "repeal": {
+    "from": 19981003,
+    "kind": "law",
+    "law": "Ley 25.013"
+   },
+   "span": "artículo 34",
+   "target": "ley-24013/art-034.md",
+   "target_hist": [
+    [
+     19981003,
+     false
+    ],
+    [
+     19911226,
+     true
+    ]
+   ],
+   "target_label": "ley-24013/art-034.md"
+  },
+  {
+   "act": "ley-24013",
+   "certified": true,
+   "citing": "ley-24013/art-108.md",
+   "citing_hist": [
+    [
+     19911226,
+     true
+    ]
+   ],
+   "citing_label": "ley-24013/art-108.md",
+   "id": "C0012",
+   "quote": "s en mano de obra, a través de la modalidad prevista en los artículos 43 a 46 de esta ley. En este supuesto, el plazo mínimo de cont",
+   "reenacted": false,
+   "repeal": {
+    "from": 19981003,
+    "kind": "law",
+    "law": "Ley 25.013"
+   },
+   "span": "artículos 43",
+   "target": "ley-24013/art-043.md",
+   "target_hist": [
+    [
+     19981003,
+     false
+    ],
+    [
+     19911226,
+     true
+    ]
+   ],
+   "target_label": "ley-24013/art-043.md"
+  },
+  {
+   "act": "ley-24467",
+   "certified": true,
+   "citing": "ley-24467/art-006.md",
+   "citing_hist": [
+    [
+     19950406,
+     true
+    ]
+   ],
+   "citing_label": "ley-24467/art-006.md",
+   "id": "C0013",
+   "quote": "A los efectos de cumplimentar lo dispuesto en los artículos 13, 15 y 16 de la presente ley, el Estado nacional a través de la autor",
+   "reenacted": false,
+   "repeal": {
+    "from": 20250520,
+    "kind": "decree",
+    "law": "Decreto 339/2025"
+   },
+   "span": "artículos 13, 15 y 16",
+   "target": "ley-24467/art-013.md",
+   "target_hist": [
+    [
+     20250520,
+     false
+    ],
+    [
+     20160810,
+     true
+    ],
+    [
+     20000916,
+     true
+    ],
+    [
+     19950406,
+     true
+    ]
+   ],
+   "target_label": "ley-24467/art-013.md"
+  },
+  {
+   "act": "ley-24467",
+   "certified": true,
+   "citing": "ley-24467/art-006.md",
+   "citing_hist": [
+    [
+     19950406,
+     true
+    ]
+   ],
+   "citing_label": "ley-24467/art-006.md",
+   "id": "C0014",
+   "quote": "A los efectos de cumplimentar lo dispuesto en los artículos 13, 15 y 16 de la presente ley, el Estado nacional a través de la autor",
+   "reenacted": false,
+   "repeal": {
+    "from": 20250520,
+    "kind": "decree",
+    "law": "Decreto 339/2025"
+   },
+   "span": "artículos 13, 15 y 16",
+   "target": "ley-24467/art-016.md",
+   "target_hist": [
+    [
+     20250520,
+     false
+    ],
+    [
+     19950406,
+     true
+    ]
+   ],
+   "target_label": "ley-24467/art-016.md"
+  },
+  {
+   "act": "ley-26522",
+   "certified": true,
+   "citing": "ley-26522/art-156.md",
+   "citing_hist": [
+    [
+     20091019,
+     true
+    ]
+   ],
+   "citing_label": "ley-26522/art-156.md",
+   "id": "C0015",
+   "quote": "ctores a los que refieren los incisos c, d, e, f, g y h del artículo 16, a fin de establecer el procedimiento de designación de sus",
+   "reenacted": false,
+   "repeal": {
+    "from": 20160104,
+    "kind": "decree",
+    "law": "DNU 267/2015"
+   },
+   "span": "artículo 16",
+   "target": "ley-26522/art-016.md",
+   "target_hist": [
+    [
+     20160104,
+     false
+    ],
+    [
+     20091019,
+     true
+    ]
+   ],
+   "target_label": "ley-26522/art-016.md"
+  },
+  {
+   "act": "ley-26682",
+   "certified": true,
+   "citing": "ley-26682/art-007.md",
+   "citing_hist": [
+    [
+     20110517,
+     true
+    ]
+   ],
+   "citing_label": "ley-26682/art-007.md",
+   "id": "C0016",
+   "quote": "ciales a propuesta de la Comisión Permanente prevista en el artículo 6º de la presente ley.",
+   "reenacted": false,
+   "repeal": {
+    "from": 20231230,
+    "kind": "decree",
+    "law": "DNU 70/2023"
+   },
+   "span": "artículo 6º",
+   "target": "ley-26682/art-006.md",
+   "target_hist": [
+    [
+     20231230,
+     false
+    ],
+    [
+     20110517,
+     true
+    ]
+   ],
+   "target_label": "ley-26682/art-006.md"
+  },
+  {
+   "act": "ley-26993",
+   "certified": true,
+   "citing": "ley-26993/art-045.md",
+   "citing_hist": [
+    [
+     20180524,
+     true
+    ],
+    [
+     20140928,
+     true
+    ]
+   ],
+   "citing_label": "ley-26993/art-045.md",
+   "id": "C0017",
+   "quote": "mo Tribunal competente en el recurso directo previsto en el artículo 39 de esta ley;",
+   "reenacted": false,
+   "repeal": {
+    "from": 20250203,
+    "kind": "decree",
+    "law": "Decreto 55/2025"
+   },
+   "span": "artículo 39",
+   "target": "ley-26993/art-039.md",
+   "target_hist": [
+    [
+     20250203,
+     false
+    ],
+    [
+     20140928,
+     true
+    ]
+   ],
+   "target_label": "ley-26993/art-039.md"
+  },
+  {
+   "act": "ley-27078",
+   "certified": true,
+   "citing": "ley-27078/art-091.md",
+   "citing_hist": [
+    [
+     20141219,
+     true
+    ]
+   ],
+   "citing_label": "ley-27078/art-091.md",
+   "id": "C0018",
+   "quote": "darán integrados al Fondo del Servicio Universal creado por artículo 21 de la presente ley, en las condiciones que determine la Aut",
+   "reenacted": false,
+   "repeal": {
+    "from": 20250106,
+    "kind": "decree",
+    "law": "Decreto 6/2025"
+   },
+   "span": "artículo 21",
+   "target": "ley-27078/art-021.md",
+   "target_hist": [
+    [
+     20250106,
+     false
+    ],
+    [
+     20141219,
+     true
+    ]
+   ],
+   "target_label": "ley-27078/art-021.md"
+  },
+  {
+   "act": "ley-27149",
+   "certified": true,
+   "citing": "ley-27149/art-084.md",
+   "citing_hist": [
+    [
+     20150627,
+     true
+    ]
+   ],
+   "citing_label": "ley-27149/art-084.md",
+   "id": "C0019",
+   "quote": ", salvo lo expresamente dispuesto en el segundo párrafo del artículo 75 de la presente.",
+   "reenacted": false,
+   "repeal": {
+    "from": 20160107,
+    "kind": "decree",
+    "law": "DNU 257/2015"
+   },
+   "span": "artículo 75",
+   "target": "ley-27149/art-075.md",
+   "target_hist": [
+    [
+     20160107,
+     false
+    ],
+    [
+     20150627,
+     true
+    ]
+   ],
+   "target_label": "ley-27149/art-075.md"
+  }
+ ],
+ "today": 20261124
+}

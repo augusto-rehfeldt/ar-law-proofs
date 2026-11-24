@@ -1,0 +1,867 @@
+{
+ "ambiguous": [
+  {
+   "article": "77",
+   "citing": "iva art. 2",
+   "inciso": null,
+   "quote": "y explotaciones de cualquier naturaleza comprendidas en el artículo 77 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "artículo 77"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 3",
+   "inciso": "e",
+   "quote": "as o municipalidades, o por los sujetos comprendidos en los incisos e), f), g) o m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "incisos e), f), g) o m) del artículo 20"
+  },
+  {
+   "article": "18",
+   "citing": "iva art. 4",
+   "inciso": "b",
+   "quote": "perjuicio de lo dispuesto en el inciso c) del artículo 16 e inciso b) del artículo 18 de la Ley Nº 11.683, texto ordenado en 1978 y sus modificac",
+   "span": "inciso b) del artículo 18"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 4 s/n 1",
+   "inciso": "d",
+   "quote": "b) Los sujetos incluidos en los incisos d), f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "incisos d), f), g) y m) del artículo 20"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 7",
+   "inciso": "e",
+   "quote": "versitarios, obras sociales o entidades comprendidas en los incisos e), f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "incisos e), f), g) y m) del artículo 20"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 7",
+   "inciso": "e",
+   "quote": ", prestados por instituciones religiosas comprendidas en el inciso e) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "inciso e) del artículo 20"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 7",
+   "inciso": "f",
+   "quote": "instituciones, entidades y asociaciones comprendidas en los incisos f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "incisos f), g) y m) del artículo 20"
+  },
+  {
+   "article": "20",
+   "citing": "iva art. 8",
+   "inciso": "f",
+   "quote": "r las instituciones religiosas y por las comprendidas en el inciso f) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "inciso f) del artículo 20"
+  },
+  {
+   "article": "35",
+   "citing": "iva art. 24",
+   "if_same": {
+    "bo": 20040119,
+    "norm": "Ley 25.865",
+    "target": "iva art. 35"
+   },
+   "inciso": null,
+   "quote": "to de las compensaciones y acreditaciones previstas por los artículos 35 y 36 de la Ley Nº 11.683 texto ordenado en 1978 y sus modificaci",
+   "span": "artículos 35 y 36"
+  },
+  {
+   "article": "36",
+   "citing": "iva art. 24",
+   "inciso": null,
+   "quote": "responsables en los términos del segundo párrafo del citado artículo 36.",
+   "span": "artículo 36"
+  },
+  {
+   "article": "77",
+   "citing": "iva art. 24 s/n 1",
+   "inciso": null,
+   "quote": "aria —esta última, siempre que no fuera en los términos del artículo 77 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "artículo 77"
+  },
+  {
+   "article": "13",
+   "citing": "iva art. 54",
+   "inciso": null,
+   "quote": "4 de noviembre de 1988, se regirá por las disposiciones del artículo 13 de la ley del impuesto al valor agregado vigente a dicha fe",
+   "span": "artículo 13"
+  },
+  {
+   "article": "39",
+   "citing": "ley11683 art. 15",
+   "inciso": null,
+   "quote": "umentos se comprueben, están sujetos a las sanciones de los artículos 39, 45 y 46 de la ley.",
+   "span": "artículos 39, 45 y 46"
+  },
+  {
+   "article": "15",
+   "citing": "ley11683 art. 18 s/n 2",
+   "inciso": null,
+   "quote": "ientes de países de baja o nula tributación —a que alude el artículo 15 de la Ley de Impuesto a las Ganancias (texto ordenado en 19",
+   "span": "artículo 15"
+  },
+  {
+   "article": "15",
+   "citing": "ley11683 art. 18 s/n 3",
+   "inciso": null,
+   "quote": "los métodos de justificación de precios a que se refiere el artículo 15 de la Ley de Impuesto a las Ganancias (t.o. en 1997 y sus m",
+   "span": "artículo 15"
+  },
+  {
+   "article": "24",
+   "citing": "ley11683 art. 27",
+   "inciso": null,
+   "quote": "ón de saldos a favor a que se refiere el último párrafo del artículo 24 de la ley del referido gravamen.",
+   "span": "artículo 24"
+  },
+  {
+   "article": "23",
+   "citing": "ley11683 art. 35",
+   "inciso": null,
+   "quote": "finitiva pudiendo sólo impugnarse por la vía prevista en el artículo 23 de la Ley Nacional de Procedimientos Administrativos 19.549",
+   "span": "artículo 23"
+  },
+  {
+   "article": "5",
+   "citing": "ley11683 art. 144",
+   "inciso": null,
+   "quote": "Nº 6.692/63 —en la forma y condiciones establecidas en los artículos 5º a 9º de dicho decreto-ley— en los recursos que se interpong",
+   "span": "artículos 5º"
+  },
+  {
+   "article": "15",
+   "citing": "ley11683 art. 217",
+   "inciso": null,
+   "quote": "s de utilidad de las transacciones a las que se alude en el artículo 15 de la Ley de Impuesto a las Ganancias, texto ordenado en 19",
+   "span": "artículo 15"
+  },
+  {
+   "article": "9",
+   "citing": "ley23966 tít. I art. 1",
+   "inciso": null,
+   "quote": "— Sustitúyese el primer párrafo del artículo 9° de la Ley Nº 18.037, texto ordenado en 1976 y sus modificac",
+   "span": "artículo 9°"
+  },
+  {
+   "article": "10",
+   "citing": "ley23966 tít. I art. 2",
+   "inciso": null,
+   "quote": "— Sustitúyese el enunciado del primer párrafo del artículo 10 de la Ley Nº 18.038, texto ordenado en 1980 y sus modificac",
+   "span": "artículo 10"
+  },
+  {
+   "article": "18",
+   "citing": "ley23966 tít. III art. 7",
+   "inciso": null,
+   "quote": "os deudores del gravamen todas las personas indicadas en el artículo 18º de la Ley N° 11.683 (texto ordenado en 1978 y sus modificac",
+   "span": "artículo 18º"
+  },
+  {
+   "article": "23",
+   "citing": "ley23966 tít. III art. 7",
+   "inciso": null,
+   "quote": "los responsables por deuda propia el trámite normado en los artículos 23 y siguientes de la Ley precedentemente mencionada ni la sus",
+   "span": "artículos 23"
+  },
+  {
+   "article": "7",
+   "citing": "ley23966 tít. III art. 7 s/n 1",
+   "inciso": "d",
+   "quote": "us modificaciones, con el destino exento establecido por su artículo 7°, inciso d).",
+   "span": "artículo 7°, inciso d)"
+  },
+  {
+   "article": "7",
+   "citing": "ley23966 tít. III art. 7 s/n 1",
+   "inciso": "d",
+   "quote": "tradas que sean proveedoras del combustible exento según el inciso d) del artículo 7° de la ley.",
+   "span": "inciso d) del artículo 7°"
+  },
+  {
+   "article": "50",
+   "citing": "ley23966 tít. III art. 18",
+   "inciso": null,
+   "quote": "modificaciones; la Ley Nº 20.073 y sus modificaciones; los artículos 50,51 y los sin número incorporados a continuación del artículo 5",
+   "span": "artículos 50,51"
+  },
+  {
+   "article": "70",
+   "citing": "ley23966 tít. III art. 18",
+   "inciso": null,
+   "quote": "in número incorporados a continuación del artículo 51 y del artículo 70 de la Ley de Impuestos Internos, texto ordenado en 1979 y s",
+   "span": "artículo 70"
+  },
+  {
+   "article": "21",
+   "citing": "ley23966 tít. III art. 18",
+   "inciso": null,
+   "quote": "23.549; el Decreto Nº 3616 del 30 de diciembre de 1976; el artículo 21 de la Ley Nº 16.656, el inciso c) del artículo 2º de la Ley",
+   "span": "artículo 21"
+  },
+  {
+   "article": "2",
+   "citing": "ley23966 tít. III art. 18",
+   "inciso": "c",
+   "quote": "e diciembre de 1976; el artículo 21 de la Ley Nº 16.656, el inciso c) del artículo 2º de la Ley Nº 17.574 y los incisos a) y b) del artículo 2º d",
+   "span": "inciso c) del artículo 2º"
+  },
+  {
+   "article": "2",
+   "citing": "ley23966 tít. III art. 18",
+   "inciso": "a",
+   "quote": "656, el inciso c) del artículo 2º de la Ley Nº 17.574 y los incisos a) y b) del artículo 2º de la Ley Nº 19.287.",
+   "span": "incisos a) y b) del artículo 2º"
+  },
+  {
+   "article": "2",
+   "citing": "ley23966 tít. III art. 21",
+   "inciso": "b",
+   "quote": "constituye un régimen especial frente a lo dispuesto en el artículo 2º, inciso b), de la mencionada ley.",
+   "span": "artículo 2º, inciso b)"
+  },
+  {
+   "article": "1",
+   "citing": "ley23966 tít. IV art. 9",
+   "inciso": null,
+   "quote": "— Derógase el artículo 1° de la Ley 23.060.",
+   "span": "artículo 1°"
+  },
+  {
+   "article": "15",
+   "citing": "ley23966 tít. V art. 11",
+   "inciso": null,
+   "quote": "rias: Leyes 19.803, 18.464, 20.572, 21.124, 19.396, 21.121 (Artículo 15), 19.939, 16.989, 23.034, 22.929, 21.540, 23.794, 22.955, 2",
+   "span": "Artículo 15"
+  },
+  {
+   "article": "22",
+   "citing": "ley23966 tít. VI art. 22",
+   "inciso": "a",
+   "quote": "scal 2018 y hasta que ello ocurra, en el tercer párrafo del inciso a) del artículo 22 del Título VI de la ley 23.966 de Impuesto sobre los Bienes",
+   "span": "inciso a) del artículo 22"
+  },
+  {
+   "article": "39",
+   "citing": "ley23966 tít. VI art. 27",
+   "inciso": null,
+   "quote": ", las mismas deberán practicarse conforme lo previsto en el artículo 39 de la Ley Número 24.073.",
+   "span": "artículo 39"
+  },
+  {
+   "article": "13",
+   "citing": "ley23966 tít. VIII art. 34",
+   "inciso": "f",
+   "quote": "—Incorpórase al inciso f) del artículo 13 de la Ley Nº 23.898 lo siguiente:",
+   "span": "inciso f) del artículo 13"
+  },
+  {
+   "article": "12",
+   "citing": "ley24977 art. 21 s/n 2",
+   "inciso": null,
+   "quote": "ue pudiera corresponder, establecido de conformidad con los artículos 12 y 13 de esa misma ley.",
+   "span": "artículos 12 y 13"
+  },
+  {
+   "article": "40",
+   "citing": "ley24977 art. 26",
+   "inciso": null,
+   "quote": "que incurran en los hechos u omisiones contemplados por el artículo 40 de la citada ley o cuando sus operaciones no se encuentren",
+   "span": "artículo 40"
+  },
+  {
+   "article": "11",
+   "citing": "ley24977 art. 39",
+   "inciso": null,
+   "quote": "SIPA) y sustituye el aporte personal mensual previsto en su artículo 11, por las siguientes cotizaciones previsionales:",
+   "span": "artículo 11"
+  },
+  {
+   "article": "17",
+   "citing": "ley24977 art. 42",
+   "inciso": null,
+   "quote": "rte de la Prestación Básica Universal (PBU), prevista en el artículo 17, ambos de la citada ley;",
+   "span": "artículo 17"
+  },
+  {
+   "article": "66",
+   "citing": "ley25413 art. 8",
+   "inciso": null,
+   "quote": "— Sustitúyese el inciso 1º del artículo 66 del Anexo I aprobado por el artículo 1º de la ley 24.452, q",
+   "span": "artículo 66"
+  },
+  {
+   "article": "1",
+   "citing": "ley25413 art. 8",
+   "inciso": null,
+   "quote": "se el inciso 1º del artículo 66 del Anexo I aprobado por el artículo 1º de la ley 24.452, que quedará redactado como sigue:  .",
+   "span": "artículo 1º"
+  },
+  {
+   "article": "2",
+   "citing": "ley25413 art. 10",
+   "inciso": null,
+   "quote": ". — Deróganse el último párrafo del artículo 2º, y los párrafos segundo, tercero, cuarto, quinto y sexto de",
+   "span": "artículo 2º"
+  },
+  {
+   "article": "62",
+   "citing": "ley25413 art. 10",
+   "inciso": null,
+   "quote": "y los párrafos segundo, tercero, cuarto, quinto y sexto del artículo 62 del Anexo I aprobado por el artículo 1º de la ley 24.452, t",
+   "span": "artículo 62"
+  },
+  {
+   "article": "1",
+   "citing": "ley25413 art. 10",
+   "inciso": null,
+   "quote": "quinto y sexto del artículo 62 del Anexo I aprobado por el artículo 1º de la ley 24.452, textos según leyes 24.760 y 25.300.",
+   "span": "artículo 1º"
+  },
+  {
+   "article": "17",
+   "citing": "lig art. 16",
+   "inciso": null,
+   "quote": "ribución y de acuerdo con los métodos establecidos en dicho artículo 17.",
+   "span": "artículo 17"
+  },
+  {
+   "article": "109",
+   "citing": "lig art. 26",
+   "inciso": null,
+   "quote": "ey 27.430, sin que resulte de aplicación lo dispuesto en el artículo 109 de la ley del impuesto para las personas humanas y sucesion",
+   "span": "artículo 109"
+  },
+  {
+   "article": "53",
+   "citing": "lig art. 26",
+   "inciso": null,
+   "quote": "prendidos en los incisos d) y e) y en el último párrafo del artículo 53 de la ley. La exención será también aplicable para esos suj",
+   "span": "artículo 53"
+  },
+  {
+   "article": "98",
+   "citing": "lig art. 26",
+   "inciso": null,
+   "quote": "do se trate de valores alcanzados por las disposiciones del artículo 98 de la ley, no comprendidos en el primer párrafo de este inc",
+   "span": "artículo 98"
+  },
+  {
+   "article": "109",
+   "citing": "lig art. 26",
+   "inciso": null,
+   "quote": "e Valores, sin que resulte de aplicación lo dispuesto en el artículo 109 de la ley del impuesto. Idéntico tratamiento le resultará d",
+   "span": "artículo 109"
+  },
+  {
+   "article": "83",
+   "citing": "lig art. 49",
+   "inciso": null,
+   "quote": "anancia gravada ni para el cálculo a que hace referencia el artículo 83 de la ley.",
+   "span": "artículo 83"
+  },
+  {
+   "article": "65",
+   "citing": "lig art. 49",
+   "inciso": null,
+   "quote": "costo de adquisición el que se obtenga de la aplicación del artículo 65 de la ley.",
+   "span": "artículo 65"
+  },
+  {
+   "article": "76",
+   "citing": "lig art. 50",
+   "inciso": null,
+   "quote": "ueran reintegrados, en cuyo caso resultará de aplicación el artículo 76 de la ley.",
+   "span": "artículo 76"
+  },
+  {
+   "article": "73",
+   "citing": "lig art. 54",
+   "inciso": "a",
+   "quote": "53 hayan ejercido la opción a que se refiere el punto 8 del inciso a) del artículo 73 de la ley.",
+   "span": "inciso a) del artículo 73"
+  },
+  {
+   "article": "6",
+   "citing": "lig art. 73",
+   "inciso": null,
+   "quote": "o tratamiento impositivo en virtud de lo establecido por el artículo 6° de dicha ley.",
+   "span": "artículo 6°"
+  },
+  {
+   "article": "91",
+   "citing": "lig art. 84",
+   "inciso": "e",
+   "quote": "s de fuente argentina. Sin perjuicio de lo dispuesto por el inciso e) del artículo 91 de la ley, los gastos realizados en el extranjero se presum",
+   "span": "inciso e) del artículo 91"
+  },
+  {
+   "article": "30",
+   "citing": "lig art. 85",
+   "inciso": null,
+   "quote": "riores y, cuando corresponda, las sumas a que se refiere el artículo 30 de la ley.",
+   "span": "artículo 30"
+  },
+  {
+   "article": "26",
+   "citing": "lig art. 98",
+   "inciso": "u",
+   "quote": "y demás valores, que cumplen las condiciones a que alude el inciso u) del artículo 26 de la ley, así como (ii) valores a que se refiere el cuarto",
+   "span": "inciso u) del artículo 26"
+  },
+  {
+   "article": "29",
+   "citing": "lig art. 100",
+   "inciso": null,
+   "quote": "ellas, no pudiendo deducirse los conceptos previstos en los artículos 29, 30 y 85 de la ley y todos aquellos que no correspondan a una determ",
+   "span": "artículos 29, 30 y 85"
+  },
+  {
+   "article": "4",
+   "citing": "lig art. 108",
+   "inciso": null,
+   "quote": "o el importe que resulte de los avalúos a que se refiere el artículo 4° de dicho decreto.",
+   "span": "artículo 4°"
+  },
+  {
+   "article": "49",
+   "citing": "lig art. 186",
+   "inciso": "a",
+   "quote": ".- Los sujetos comprendidos en los incisos a), b) y c) del artículo 49 de la Ley de Impuesto a las Ganancias, texto según decreto",
+   "span": "incisos a), b) y c) del artículo 49"
+  }
+ ],
+ "flags": [
+  {
+   "basis": "title gap",
+   "certified": true,
+   "citing": "iva art. 12",
+   "citing_key": "12",
+   "citing_since": 19970326,
+   "id": "T001",
+   "kind": "same",
+   "line": "En ningún caso dará lugar a cómputo de crédito fiscal alguno el gravamen que se hubiere liquidado a los adquirentes de acuerdo con lo dispuesto en el Título V, salvo cuando se trate del caso previsto en el segundo párrafo del artículo 32 del referido Título.",
+   "quote": "cuando se trate del caso previsto en el segundo párrafo del artículo 32 del referido Título.",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20040119,
+    "by": "art. 1°, inciso a), punto 4 de la Ley N° 25.865",
+    "date_basis": "latest date allowed: 180 days after B.O., +1",
+    "from": 20040718,
+    "gap_title": "V",
+    "head": "Título V",
+    "norm": "Ley 25.865",
+    "note": "(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder ",
+    "unit": "título",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de"
+   },
+   "span": "artículo 32",
+   "statute": "iva",
+   "target": "iva art. 32",
+   "target_inciso": null,
+   "target_key": "32",
+   "target_since": 19970326,
+   "target_statute": "iva"
+  },
+  {
+   "basis": "title",
+   "certified": true,
+   "citing": "iva art. 12",
+   "citing_key": "12",
+   "citing_since": 19970326,
+   "id": "T002",
+   "kind": "same",
+   "line": "En ningún caso dará lugar a cómputo de crédito fiscal alguno el gravamen que se hubiere liquidado a los adquirentes de acuerdo con lo dispuesto en el Título V, salvo cuando se trate del caso previsto en el segundo párrafo del artículo 32 del referido Título.",
+   "quote": "quidado a los adquirentes de acuerdo con lo dispuesto en el Título V, salvo cuando se trate del caso previsto en el segundo párr",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20040119,
+    "by": "art. 1°, inciso a), punto 4 de la Ley N° 25.865",
+    "date_basis": "latest date allowed: 180 days after B.O., +1",
+    "from": 20040718,
+    "head": "Título V",
+    "norm": "Ley 25.865",
+    "note": "(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder ",
+    "unit": "título",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de"
+   },
+   "span": "Título V",
+   "statute": "iva",
+   "target": "iva tít. V",
+   "target_inciso": null,
+   "target_key": "tít. V",
+   "target_since": 19970326,
+   "target_statute": "iva"
+  },
+  {
+   "basis": "title",
+   "certified": true,
+   "citing": "iva art. 36",
+   "citing_key": "36",
+   "citing_since": 19970326,
+   "id": "T003",
+   "kind": "same",
+   "line": "ARTICULO 36 — Los sujetos pasivos del impuesto mencionados en el artículo 4º deberán inscribirse en la DIRECCION GENERAL IMPOSITIVA en la forma y tiempo que la misma establezca, salvo cuando, tratándose de responsables comprendidos en el Título V, hagan uso de la opción que el mismo autoriza.",
+   "quote": "salvo cuando, tratándose de responsables comprendidos en el Título V, hagan uso de la opción que el mismo autoriza.",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20040119,
+    "by": "art. 1°, inciso a), punto 4 de la Ley N° 25.865",
+    "date_basis": "latest date allowed: 180 days after B.O., +1",
+    "from": 20040718,
+    "head": "Título V",
+    "norm": "Ley 25.865",
+    "note": "(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder ",
+    "unit": "título",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de"
+   },
+   "span": "Título V",
+   "statute": "iva",
+   "target": "iva tít. V",
+   "target_inciso": null,
+   "target_key": "tít. V",
+   "target_since": 19970326,
+   "target_statute": "iva"
+  },
+  {
+   "basis": "title gap",
+   "certified": true,
+   "citing": "iva art. 47",
+   "citing_key": "47",
+   "citing_since": 19970326,
+   "id": "T004",
+   "kind": "same",
+   "line": "A los fines de la aplicación de las actualizaciones a las que se refiere el párrafo anterior, las mismas deberán practicarse hasta la fecha prevista en el artículo 10 de la Ley Nº 23.928, cuando se trate del impuesto a ingresar o facturado, el ajuste, cómputo o reintegro de débitos y créditos fiscales y los saldos a favor o pagos a cuenta, a que se refieren los artículos 9º; 11; 13; 24; 32; 43 y 50.",
+   "quote": "los saldos a favor o pagos a cuenta, a que se refieren los artículos 9º; 11; 13; 24; 32; 43 y 50.",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20040119,
+    "by": "art. 1°, inciso a), punto 4 de la Ley N° 25.865",
+    "date_basis": "latest date allowed: 180 days after B.O., +1",
+    "from": 20040718,
+    "gap_title": "V",
+    "head": "Título V",
+    "norm": "Ley 25.865",
+    "note": "(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder ",
+    "unit": "título",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de"
+   },
+   "span": "artículos 9º; 11; 13; 24; 32; 43 y 50",
+   "statute": "iva",
+   "target": "iva art. 32",
+   "target_inciso": null,
+   "target_key": "32",
+   "target_since": 19970326,
+   "target_statute": "iva"
+  },
+  {
+   "basis": "title gap",
+   "certified": true,
+   "citing": "iva art. 47",
+   "citing_key": "47",
+   "citing_since": 19970326,
+   "id": "T005",
+   "kind": "same",
+   "line": "En cambio, las referidas actualizaciones deberán practicarse conforme lo previsto en el artículo 39 de la Ley Nº 24.073, cuando las mismas deban aplicarse sobre las adquisiciones, operaciones o monto mínimo de las mismas, a que se refieren los artículos 13, 32, y 35.",
+   "quote": "aciones o monto mínimo de las mismas, a que se refieren los artículos 13, 32, y 35.",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20040119,
+    "by": "art. 1°, inciso a), punto 4 de la Ley N° 25.865",
+    "date_basis": "latest date allowed: 180 days after B.O., +1",
+    "from": 20040718,
+    "gap_title": "V",
+    "head": "Título V",
+    "norm": "Ley 25.865",
+    "note": "(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder ",
+    "unit": "título",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de"
+   },
+   "span": "artículos 13, 32, y 35",
+   "statute": "iva",
+   "target": "iva art. 35",
+   "target_inciso": null,
+   "target_key": "35",
+   "target_since": 19970326,
+   "target_statute": "iva"
+  },
+  {
+   "basis": "note",
+   "certified": true,
+   "citing": "lig art. 31",
+   "citing_key": "31",
+   "citing_since": 20191207,
+   "id": "T006",
+   "kind": "same",
+   "line": "Los importes mensuales a computar, serán los que se determinen aplicando el procedimiento a que se refiere el tercer párrafo del artículo 32.",
+   "quote": "ndo el procedimiento a que se refiere el tercer párrafo del artículo 32.",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20240708,
+    "by": "art. 70 inciso c) de la Ley N° 27.743",
+    "date_basis": "publicación",
+    "from": 20240708,
+    "head": "Artículo",
+    "norm": "Ley 27.743",
+    "note": "(Artículo derogado por art. 70 inciso c) de la Ley N° 27.743 B.O. 08/07/2024. Vigencia: a partir del día de su publicación en el Boletín Ofical y surtirá efecto a partir del año fiscal 2024)",
+    "unit": "artículo",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Ofical y surtirá efecto a partir del año fiscal 2024)"
+   },
+   "span": "artículo 32",
+   "statute": "lig",
+   "target": "lig art. 32",
+   "target_inciso": null,
+   "target_key": "32",
+   "target_since": 20191207,
+   "target_statute": "lig"
+  },
+  {
+   "basis": "note",
+   "certified": true,
+   "citing": "lig art. 184",
+   "citing_key": "184",
+   "citing_since": 20191207,
+   "id": "T007",
+   "kind": "same",
+   "line": "ARTÍCULO 184.- A los fines de la actualización prevista en el artículo 32, el importe establecido en el artículo 29 se considerará vigente al 31 de diciembre de 1985.",
+   "quote": ".- A los fines de la actualización prevista en el artículo 32, el importe establecido en el artículo 29 se considerará vi",
+   "reenacted": false,
+   "repeal": {
+    "action": "derogado",
+    "bo": 20240708,
+    "by": "art. 70 inciso c) de la Ley N° 27.743",
+    "date_basis": "publicación",
+    "from": 20240708,
+    "head": "Artículo",
+    "norm": "Ley 27.743",
+    "note": "(Artículo derogado por art. 70 inciso c) de la Ley N° 27.743 B.O. 08/07/2024. Vigencia: a partir del día de su publicación en el Boletín Ofical y surtirá efecto a partir del año fiscal 2024)",
+    "unit": "artículo",
+    "vigencia": ". Vigencia: a partir del día de su publicación en el Boletín Ofical y surtirá efecto a partir del año fiscal 2024)"
+   },
+   "span": "artículo 32",
+   "statute": "lig",
+   "target": "lig art. 32",
+   "target_inciso": null,
+   "target_key": "32",
+   "target_since": 20191207,
+   "target_statute": "lig"
+  }
+ ],
+ "inventory": {
+  "iva": {
+   "articles": 61,
+   "repealed_articles": {
+    "38": {
+     "bo": 20040119,
+     "from": 20040718,
+     "norm": "Ley 25.865"
+    },
+    "40": {
+     "bo": 20040119,
+     "from": 20040718,
+     "norm": "Ley 25.865"
+    },
+    "44": {
+     "bo": 19991231,
+     "from": 19991231,
+     "norm": "Ley 25.239"
+    },
+    "49": {
+     "bo": 19981230,
+     "from": 19981231,
+     "norm": "Ley 25.063"
+    },
+    "54 s/n 1": {
+     "bo": 20010430,
+     "from": 20010430,
+     "norm": "Decreto 493/2001"
+    }
+   },
+   "repealed_incisos": {
+    "28 g)": {
+     "bo": 20140929,
+     "from": 20140929,
+     "norm": "Ley 26.982"
+    }
+   },
+   "repealed_titles": {
+    "V": {
+     "bo": 20040119,
+     "from": 20040718,
+     "norm": "Ley 25.865"
+    }
+   },
+   "title_gap_articles": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  "ley11683": {
+   "articles": 252,
+   "repealed_articles": {
+    "10": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    },
+    "157": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    },
+    "201": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    },
+    "65 s/n 1": {
+     "bo": 20260102,
+     "from": 20260102,
+     "norm": "Ley 27.799"
+    }
+   },
+   "repealed_incisos": {},
+   "repealed_titles": {},
+   "title_gap_articles": []
+  },
+  "ley23966": {
+   "articles": 85,
+   "repealed_articles": {
+    "III:4 s/n 1": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    },
+    "III:6": {
+     "bo": 20030625,
+     "from": 20030625,
+     "norm": "Ley 25.745"
+    },
+    "III:8": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    }
+   },
+   "repealed_incisos": {},
+   "repealed_titles": {},
+   "title_gap_articles": []
+  },
+  "ley24977": {
+   "articles": 57,
+   "repealed_articles": {
+    "41": {
+     "bo": 20171229,
+     "from": 20171230,
+     "norm": "Ley 27.430"
+    }
+   },
+   "repealed_incisos": {},
+   "repealed_titles": {},
+   "title_gap_articles": []
+  },
+  "ley25413": {
+   "articles": 12,
+   "repealed_articles": {},
+   "repealed_incisos": {},
+   "repealed_titles": {},
+   "title_gap_articles": []
+  },
+  "lig": {
+   "articles": 196,
+   "repealed_articles": {
+    "110": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    },
+    "111": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    },
+    "27": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    },
+    "32": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    }
+   },
+   "repealed_incisos": {
+    "26 x)": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    },
+    "26 y)": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    },
+    "26 z)": {
+     "bo": 20240708,
+     "from": 20240708,
+     "norm": "Ley 27.743"
+    }
+   },
+   "repealed_titles": {},
+   "title_gap_articles": []
+  }
+ },
+ "sources": {
+  "iva": {
+   "base": 19970326,
+   "base_basis": "Decreto 280/97 dated 26/3/97 (B.O. date not on the page)",
+   "file": "iva_texact.htm",
+   "name": "Ley de Impuesto al Valor Agregado, t.o. 1997"
+  },
+  "ley11683": {
+   "base": 19980713,
+   "base_basis": "Decreto 821/98 dated 13/7/98 (B.O. date not on the page)",
+   "file": "ley11683_texact.htm",
+   "name": "Ley 11.683 de Procedimiento Tributario, t.o. 1998"
+  },
+  "ley23966": {
+   "base": 19910815,
+   "base_basis": "promulgated 15/8/1991 (B.O. date not on the page)",
+   "file": "ley23966_texact.htm",
+   "name": "Ley 23.966 (Título VI: Impuesto sobre los Bienes Personales)"
+  },
+  "ley24977": {
+   "base": 20091221,
+   "base_basis": "Anexo substituted by Ley 26.565 art. 1, B.O. 21/12/2009",
+   "file": "ley24977_texact.htm",
+   "name": "Ley 24.977, Anexo (Régimen Simplificado, Monotributo)"
+  },
+  "ley25413": {
+   "base": 20010324,
+   "base_basis": "promulgated 24/3/2001 (B.O. date not on the page)",
+   "file": "ley25413_texact.htm",
+   "name": "Ley 25.413 (impuesto sobre créditos y débitos)"
+  },
+  "lig": {
+   "base": 20191207,
+   "base_basis": "Decreto 824/2019 art. 2: in force the day after publication (e. 06/12/2019)",
+   "file": "lig_texact.htm",
+   "name": "Ley de Impuesto a las Ganancias, t.o. Decreto 824/2019"
+  }
+ },
+ "today": 20261124
+}

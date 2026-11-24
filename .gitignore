@@ -1,0 +1,6 @@
+.lake/
+__pycache__/
+# downloaded official texts and tables: fetched by tools/fetch.py, listed with their SHA-256 in SOURCES.md
+sources/
+tools/out/
+.codegraph/
